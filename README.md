@@ -56,11 +56,11 @@ The ESP32 hosts a local web server where users can:
 
 ### Circuit Diagram
 
-![Circuit](circuit.png)
+![Circuit](circuit.jpg)
 
 ### Web Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](web.jpg)
 
 ---
 
